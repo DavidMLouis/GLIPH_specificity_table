@@ -5,6 +5,8 @@ The output of GLIPH2 is run through the GLIPH cleaner program to prep the data f
 It is then run through the data splitter to assign variables to each sequences represented in each cluster
 The program will analyze each cluster to determine the specificity in which class it is more associated with. This will aid in being able to identify motif clusters are more closely related to the target of analysis
 
+requires package: plyr
+
 https://github.com/DavidMLouis/GLIPH_cleaner
 https://github.com/DavidMLouis/GLIPH_data_splitter
 
